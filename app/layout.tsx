@@ -29,14 +29,7 @@ export const metadata: Metadata = {
     locale: "en_AU",
     url: "https://izbaespresso.com",
     siteName: "Izba Espresso",
-    images: [
-      {
-        url: "/logo.jpg",
-        width: 1200,
-        height: 1200,
-        alt: "Izba Espresso Logo",
-      },
-    ],
+    images: ["/logo.jpg"],
   },
   twitter: {
     card: "summary_large_image",
